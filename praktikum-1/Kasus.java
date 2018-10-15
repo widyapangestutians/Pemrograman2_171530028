@@ -4,3 +4,5 @@ public class Kasus1 {
         System.out.println("What's wrong with this code?");
     }
 }
+// koreksi
+// nama file dan nama class tidak sama, harus disamakan
