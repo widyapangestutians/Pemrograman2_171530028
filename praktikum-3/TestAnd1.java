@@ -10,3 +10,4 @@ class TestAnd1 {
         System.out.println(test);
     }
 }
+/* Error pada method mian karena tidak ada public */
