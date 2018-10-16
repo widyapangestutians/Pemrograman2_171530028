@@ -13,3 +13,4 @@ public class CaseSwitch {
         }
     }
 }
+/*nama file dan nama class tidak sama, harus disamakan*/
