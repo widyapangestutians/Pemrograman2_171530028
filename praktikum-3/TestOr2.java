@@ -10,3 +10,4 @@ class TestOr2 {
         System.out.println(test);
     }
 }
+/* Pada syntax deklarasi class kurang public */
