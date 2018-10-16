@@ -10,3 +10,4 @@ public class TestAnd2 {
         System.out.println(test);
     }
 }
+/* pada syntax method main kurang public */
