@@ -6,3 +6,4 @@ public class CaseIf {
             System.out.println("Nama Barang : Meja Adx");
     }
 }
+/* Nama file dan nama class tidak sama, harus disamakan*/
